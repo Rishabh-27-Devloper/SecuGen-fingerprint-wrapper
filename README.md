@@ -34,7 +34,7 @@ A minimal C++ wrapper around the SecuGen fingerprint SDK, built for Windows usin
 ### Steps
 
 ```bash
-git clone https://github.com/yourusername/SecuGenWrapper.git
+git clone https://github.com/Rishabh-27-Devloper/SecuGen-fingerprint-wrapper.git
 cd SecuGenWrapper
 mkdir build
 cd build
